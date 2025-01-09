@@ -1,0 +1,57 @@
+a:6:{s:6:"_token";s:40:"tEhTagaCpHDszCNnH50K8bBoRSJm11gYn8z9glDc";s:6:"_flash";a:2:{s:3:"old";a:0:{}s:3:"new";a:0:{}}s:9:"_previous";a:1:{s:3:"url";s:33:"http://localhost/ecommers/setting";}s:50:"login_web_3dc7a913ef5fd4b890ecabe3487085573e16cf82";i:2;s:56:"login_customers_3dc7a913ef5fd4b890ecabe3487085573e16cf82";i:1;s:6:"return";a:8:{s:4:"html";s:1597:"<div class="col-sm-12">
+    <div class="row">
+        <div class="col-xxl-4 col-12 mb-4">
+            <div class="card m-0 h-100">
+                <div class="card-header">
+                <div class="float-end">
+                    <a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Refferals"><i
+                            class=""></i></a>
+                </div>
+                <h5><b>1 orders</b></h5>
+                </div>
+                <div class="card-body"  style="min-height: 280px;">
+                        <div class="row align-items-center">
+                        <div class="col-12">
+                            <div class="chart" data-height="230"></div>
+                        </div>
+
+                        </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-xxl-8">
+            <div class="card">
+                <div class="card-header">
+                    <h5><b>Customer order Vs Guest order</b></h5>
+                </div>
+                <div class="card-body">
+                    <div class="myChart" data-color="primary" data-height="230"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="col-xxl-12">
+    
+    <div class="card min-h-390 overflow-auto">
+        <div class="card-header">
+            <h5><b>Customer Vs Guest</b></h5>
+        </div>
+        <div class="card-body">
+            <div class="traffic-chart"></div>
+        </div>
+    </div>
+
+</div>
+
+<script src="http://localhost/ecommers/public/assets/js/plugins/apexcharts.min.js"></script>
+
+
+
+
+
+
+
+";s:10:"guestTotal";a:12:{i:0;i:0;i:1;i:0;i:2;i:0;i:3;i:0;i:4;i:0;i:5;i:0;i:6;i:0;i:7;i:0;i:8;i:0;i:9;i:0;i:10;i:0;i:11;i:0;}s:9:"userTotal";a:12:{i:0;i:1;i:1;i:0;i:2;i:0;i:3;i:0;i:4;i:0;i:5;i:0;i:6;i:0;i:7;i:0;i:8;i:0;i:9;i:0;i:10;i:0;i:11;i:0;}s:13:"registerTotal";a:12:{i:0;i:1;i:1;i:0;i:2;i:0;i:3;i:0;i:4;i:0;i:5;i:0;i:6;i:0;i:7;i:0;i:8;i:0;i:9;i:0;i:10;i:0;i:11;i:0;}s:9:"monthList";a:12:{i:0;s:7:"January";i:1;s:8:"February";i:2;s:5:"March";i:3;s:5:"April";i:4;s:3:"May";i:5;s:4:"June";i:6;s:4:"July";i:7;s:6:"August";i:8;s:9:"September";i:9;s:7:"October";i:10;s:8:"November";i:11;s:8:"December";}s:8:"customer";i:1;s:5:"guest";i:0;s:13:"newguestTotal";a:12:{i:0;i:0;i:1;i:0;i:2;i:0;i:3;i:0;i:4;i:0;i:5;i:0;i:6;i:0;i:7;i:0;i:8;i:0;i:9;i:0;i:10;i:0;i:11;i:0;}}}

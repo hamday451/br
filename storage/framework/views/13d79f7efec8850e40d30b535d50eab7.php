@@ -1,0 +1,2 @@
+<?php echo $__env->yieldPushContent('addEnquiryButton'); ?>
+<?php echo $__env->yieldPushContent('addSizeGuidelineButton'); ?><?php /**PATH B:\xampp\htdocs\ecommers\resources\views/front_end/hooks/product_tab.blade.php ENDPATH**/ ?>

@@ -1,0 +1,2 @@
+<?php echo $__env->yieldPushContent('addReviewButton'); ?>
+<?php echo $__env->yieldPushContent('addWholesalepricingButton'); ?><?php /**PATH B:\xampp\htdocs\ecommers\resources\views/front_end/hooks/product_detail_info_button.blade.php ENDPATH**/ ?>

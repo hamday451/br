@@ -1,0 +1,1 @@
+<?php echo $__env->yieldPushContent('recentOrdersSlider'); ?><?php /**PATH B:\xampp\htdocs\ecommers\resources\views/front_end/hooks/cart_slider.blade.php ENDPATH**/ ?>
